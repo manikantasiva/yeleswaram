@@ -3,7 +3,7 @@
 
 [Famous placeses](pic.md)
 
-   [Map](https://www.google.com/maps/search/yeleswaram+yeleru+project/@17.3106141,82.0169757,12z/data=!3m1!4b1)                
+[Map](https://www.google.com/maps/search/yeleswaram+yeleru+project/@17.3106141,82.0169757,12z/data=!3m1!4b1)                
 
 
  <img src="elsm-1.jpg" alt="Yeleswaram project image" style="width:900px ;" >
@@ -11,7 +11,7 @@
 ## About (Yeleswaram)::
  Yeleswaram is one of the coolest and pleasant places in East Godavari.
  It is near Yerravaram (NH16) located near to  National high way Vizag to Rajahmundry.
- Yeleswaram is a rural place and it contains some tourist places....
+ Yeleswaram is a rural place and it contains some tourist places.
    
 ### 1.Yeleru project---
    
@@ -38,8 +38,6 @@
  mostly these places are near to [Bhupathipalem Reservoir](Bhupathi.jpeg)
 
 
-<<<<<<< HEAD
- **------------------------------------------------- _Manikanta siva_**
-=======
- **--------------------------------------------------------------------------------- _Manikanta siva_**
->>>>>>> 3a00050a6ee18480e051df7490a65c12ada39790
+
+ **---------------------------------------- _Manikanta siva_**
+

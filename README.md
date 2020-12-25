@@ -1,7 +1,7 @@
 # YELESWARAM:                                           
 [Address](add.md)
 
- [Famous placeses](pic.md )
+[Famous placeses](pic.md)
 
    [Map](https://www.google.com/maps/search/yeleswaram+yeleru+project/@17.3106141,82.0169757,12z/data=!3m1!4b1)                
 
@@ -38,4 +38,4 @@
  mostly these places are near to [Bhupathipalem Reservoir](Bhupathi.jpeg)
 
 
- **---------------------------------- _Manikanta siva_**
+ **------------------------------------------------- _Manikanta siva_**

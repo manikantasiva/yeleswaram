@@ -3,6 +3,10 @@
 ### 2
 ![yeleru-pic](yeleru.jpg)
 ### 3
-![elsm-pic](elsm-1.jpg)
+
+<img src="elsm-1.jpg" alt=" image" style="width:545px;"/>
+
 ### 4
-![Bhupathi-pic](Bhupathi.jpeg)
+
+
+<img src="Bhupathi.jpeg" alt=" image" style="width:545px;"/>

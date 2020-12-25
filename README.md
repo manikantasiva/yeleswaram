@@ -7,7 +7,7 @@
 
  ![yleswaram-pic](elsm-1.jpg )
 
- ## About (Yeleswaram)::
+## About (Yeleswaram)::
  Yeleswaram is one of the coolest and pleasant places in East Godavari.
  It is near Yerravaram (NH16) located near to  National high way Vizag to Rajahmundry.
  Yeleswaram is a rural place and it contains some tourist places.
@@ -27,7 +27,7 @@
  **Capacity-of-project**: _24.110 TMC_
 
 
- ### 2.Water Falls--
+### 2.Water Falls--
 
  ![Waterfalls](ylsm-waterfalls.jpeg)
 

@@ -37,7 +37,8 @@
  So most of the local tourists are visited these places and enjoyed.
  mostly these places are near to [Bhupathipalem Reservoir](Bhupathi.jpeg)
 
-<audio ref='Water fall Bgm' src="Water-fall-BGM.mp3" autoplay loop></audio>
+
+<audio ref='Water falls Bgm sound' src="Water-fall-BGM.mp3" autoplay loop></audio>
 
  **---------------------------------------- _Manikanta siva_**
 

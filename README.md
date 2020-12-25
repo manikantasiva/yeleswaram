@@ -5,7 +5,9 @@
 
    [Map](https://www.google.com/maps/search/yeleswaram+yeleru+project/@17.3106141,82.0169757,12z/data=!3m1!4b1)                
 
- ![yleswaram-pic](elsm-1.jpg )
+<!-- ![yleswaram-pic](elsm-1.jpg ) -->
+
+ <img src="elsm-1.jpg" alt="Yeleswaram project image" style="width:900px ;" >
 
 ## About (Yeleswaram)::
  Yeleswaram is one of the coolest and pleasant places in East Godavari.
@@ -16,7 +18,9 @@
    
  ![yeleru](yeleru-1.jpg)
 
- ![Yeleru](yeleru-3.jpg)
+ <!--![Yeleru](yeleru-3.jpg) -->
+ <img src="Yeleru_river.jpg" alt="Yeleswaram project image" style="width:900px ;" >
+
 
  **Irrigation-project-name**: _Yeleru Reservoir project ph-1_
 

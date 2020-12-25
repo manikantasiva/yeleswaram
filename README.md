@@ -33,3 +33,6 @@
 
  So most of the local tourists are visited these places and enjoyed.
  mostly these places are near to [Bhupathipalem Reservoir](Bhupathi.jpeg)
+
+
+ **-------------------------------------- _Manikanta siva_**

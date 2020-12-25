@@ -35,4 +35,4 @@
  mostly these places are near to [Bhupathipalem Reservoir](Bhupathi.jpeg)
 
 
- **-------------------------------------- _Manikanta siva_**
+ **--------------------------------------------------------------------------------- _Manikanta siva_**
